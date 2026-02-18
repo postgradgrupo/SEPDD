@@ -1,6 +1,4 @@
 # CERTIFICATES
 ### All certificates needed to trust our website.
 
-SBxI9uURZOnJv/Cy9RULHkiPAUkoklhwey8pADe3kQxlUhoJcdvQlUPRy96Qy3j8KbxluciJerNBJuLiXFdbMyoGyiEaW3+
-ukvLpS4NuCrbD60aipCgiMW6kFeK7042zdHRSQEmAxEy4RW67Mg8tCg==
-
+0f1f6f7227c3d8cbd759fc8c4dd6734e6690b7962e55f53e7efcf18cf6fe8ac6
